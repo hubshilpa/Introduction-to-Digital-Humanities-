@@ -23,6 +23,6 @@ The [orginal dataset](original_dataset) used is created by Danescu-Niculescu-Miz
 The tools used to  enrich the orginal dataset of Danescu-Niculescu-Mizil & Lee (2011) are: 
 * Google Spreadsheets,  
 * Python, jupyter notebook
-* IMDB cast and crew website, and 
+* IMDB cast website or fan-wikis, and 
 * scripts of the movies 
 
