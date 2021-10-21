@@ -5,7 +5,7 @@
 
 ## A) Brief description:
 
-This corpus contains a metadata-rich collection of fictional conversations extracted from the [orginal dataset](./original_dataset) raw movie scripts:
+This corpus contains a metadata-rich collection of fictional conversations extracted from the [orginal dataset](../original_dataset) raw movie scripts:
 
 - 220,579 conversational exchanges between 10,292 pairs of movie characters
 - involves 9,035 characters from 617 movies
