@@ -1,9 +1,9 @@
 ## Table of contents of this README:
-- [A) Brief description](a--brief-description)
-- [B) Files description](b--files-description)
-- [C) Details on the collection procedure](c--details-on-the-collection-procedure)
+- [A. Brief description](#a-brief-description)
+- [B. Files description](#b-files-description)
+- [C. Details on the collection procedure](#c-details-on-the-collection-procedure)
 
-## A) Brief description
+## A. Brief description
 
 This corpus contains a metadata collection of fictional conversations on sci-fi movies extracted from the [orginal dataset](../original_dataset):
 
@@ -18,7 +18,7 @@ This corpus contains a metadata collection of fictional conversations on sci-fi 
 - character metadata included:
 	- gender (for 1,327 characters)
 
-## B) Files description
+## B. Files description
 
 In all files the field separator is a comma (",")
 
@@ -69,7 +69,7 @@ In all files the field separator is a comma (",")
 		- gender
 	
 
-## C) Details on the collection procedure
+## C. Details on the collection procedure
 
 We started with the [orginal dataset](../original_dataset), which we got from [Kaggle](https://www.kaggle.com/Cornell-University/movie-dialog-corpus). In order to answer our research question: "How were female (and female coded) characters represented in Science Fiction films between the years 1970 and 2010?" and the subquestions we needed to add more metadata for the gender, since in the [orginal dataset](../original_dataset) 66.6% was unlabeled ("?"), 22.7% male ("m"/ "M") and 10.7% female ("f"/"F"). This metadata on gender was added manually by looking at the movie scripts or finding the cast on the The Internet
  Movie Database (IMDB) website of the movie. Furthermore, we discarded all the movies without the genre "sci-fi" in the genres list column and all the movies before 1970, we were left with 107 unique titles with the metadata of 1,327 characters, IMDB ratings, no. of IMDB votes, genres and release year. Furthermore, from the [orginal dataset](../original_dataset) we discared the position on movie credits metadata, since a lot of this information was unlabeled. 
