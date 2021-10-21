@@ -13,7 +13,7 @@ The [orginal dataset](original_dataset) used is created by Danescu-Niculescu-Miz
 ## The data model used for the research questions
 
 <p align="center">
-  <img width="800" src="data_model_image.png" alt="Figure 1:  A model of the data that will be used in this research.">
+  <img width="700" src="data_model_image.png" alt="Figure 1:  A model of the data that will be used in this research.">
 </p>
 
 
