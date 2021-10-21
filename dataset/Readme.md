@@ -22,17 +22,17 @@ This corpus contains a metadata collection of fictional conversations on sci-fi 
 
 In all files the field separator is a comma (",")
 
-- movie_titles_metadata.txt **CHANGE**
+- [movie_titles_scifi_chronological.csv](movie_titles_scifi_chronological.csv)
 	- contains information about each movie title
 	- fields: 
 		- movieID, 
-		- movie title,
-		- movie year, 
-	   	- IMDB rating,
-		- no. IMDB votes,
- 		- genres in the format ['genre1','genre2',�,'genreN']
+		- movie_title,
+		- movie_year, 
+	   	- IMDB_rating,
+		- number_of_IMDB_votes, 
+ 		- genres in the format: ['genre1','genre2',�,'genreN']
 
-- scifi_characters.csv
+- [scifi_characters.csv](scifi_characters.csv)
 	- contains information about each movie character
 	- fields:
 		- characterID
@@ -41,7 +41,8 @@ In all files the field separator is a comma (",")
 		- movie_title
 		- gender ("f" for female, "m" for male, "n" for neutral, "x" for unknown characters)
 
-- movie_lines.csv: this is the same as in the [orginal dataset](../original_dataset). 
+- [movie_lines.csv](movie_lines.csv)
+	*this is the same as in the [orginal dataset](../original_dataset)* 
 	- contains the actual text of each utterance
 	- fields:
 		- lineID
@@ -50,20 +51,20 @@ In all files the field separator is a comma (",")
 		- character_name
 		- text_utterance: text of the utterance
 
-- movie_convos_scifi.csv
+- [movie_convos_scifi.csv](movie_convos_scifi.csv)
 	- the structure of the conversations
 	- fields
-		- characterID of the first character involved in the conversation
-		- characterID of the second character involved in the conversation
+		- characterID_1: characterID of the first character involved in the conversation
+		- characterID_2: characterID of the second character involved in the conversation
 		- movieID of the movie in which the conversation occurred
-		- list of the utterances that make the conversation, in chronological 
+		- list_utterance: list of the utterances that make the conversation, in chronological 
 			order: ['lineID1','lineID2',�,'lineIDN']
 			has to be matched with movie_lines.csv to reconstruct the actual content
 
-- sum_movie_convos_scifi.csv
+- [sum_movie_convos_scifi.csv](sum_movie_convos_scifi.csv)
 	- the sum of the number of lines created using the [project notebook](project.ipynb)
 	- Fields
-	 	- characterID of the first character involved in the conversation
+	 	- characterID_1: characterID of the first character involved in the conversation
 		- movieID of the movie in which the conversation occurred
 		- sum_utterance: sum of the list of the utterances that make the conversation
 		- gender
