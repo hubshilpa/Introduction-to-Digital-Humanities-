@@ -1,4 +1,5 @@
 # **Investigating female representation in Science Fiction movies**
+The paper of our research can be found here: [research paper](ADD LINK)
 
 ## Table of Contents
 - [The provenance of the data](#the-provenance-of-the-data)
