@@ -70,21 +70,7 @@ In all files the field separator is a comma (","), except for in the [Excel file
 
 ## C. Details on the collection procedure
 
-We started with the [orginal dataset](../original_dataset), which we got from [Kaggle](https://www.kaggle.com/Cornell-University/movie-dialog-corpus). In order to answer our research question: "How were female (and female coded) characters represented in Science Fiction films between the years 1970 and 2010?" and the subquestions we needed to add more metadata for the gender, since in the [orginal dataset](../original_dataset) 66.6% was unlabeled ("?"), 22.7% male ("m"/ "M") and 10.7% female ("f"/"F"). This metadata on gender was added manually by looking at the movie scripts or finding the cast on the The Internet
- Movie Database (IMDB) website of the movie. Furthermore, we discarded all the movies without the genre "sci-fi" in the genres list column and all the movies before 1970, we were left with 100 unique titles with the metadata of 1,327 characters, IMDB ratings, no. of IMDB votes, genres and release year. Furthermore, from the [orginal dataset](../original_dataset) we discared the position on movie credits metadata, since a lot of this information was unlabeled. 
+We started with the [orginal dataset](../original_dataset), which we got from [Kaggle](https://www.kaggle.com/Cornell-University/movie-dialog-corpus). In order to answer our research question: *"How were female (and female coded) characters represented in Science Fiction films between the years 1970 and 2010?"* and the subquestions we needed to add more metadata for the gender, since in the [orginal dataset](../original_dataset) 66.6% was unlabeled ("?"), 22.7% male ("m"/ "M") and 10.7% female ("f"/"F"). This metadata on gender was added manually by looking at the movie scripts or finding the cast on the The Internet
+ Movie Database (IMDB) website of the movie. Furthermore, we discarded all the movies without the genre "sci-fi" in the genres list column and all the movies before 1970, we were left with 100 unique titles with the metadata of 1,327 characters, IMDB ratings, no. of IMDB votes, genres and release year. Furthermore, from the [orginal dataset](../original_dataset) we discared the position on movie credits metadata, since a lot of this information was unlabeled. In addition, we cleaned up the release year data, since some of the years had: "/I" behind some years. 
  
- Using simple data processing heuristics in Python (see [project notebook](project.ipynb)) we collected the sum of the number of lines (list utterances) by using the movie_convos_scifi and linking this to the characterID in scifi_characters.csv ..
-
-
-After discarding all movies that could not be matched or that had less than 5 IMDB 
-votes, we were left with 617 unique titles with metadata including genre, release 
-year, IMDB rating and no. of IMDB votes and cast distribution.  We then identified 
-the pairs of characters that interact and separated their conversations automatically 
-using simple data processing heuristics. After discarding all pairs that exchanged 
-less than 5 conversational exchanges there were 10,292 left, exchanging 220,579 
-conversational exchanges (304,713 utterances).  After automatically matching the names 
-of the 9,035 involved characters to the list of cast distribution, we used the 
-gender of each interpreting actor to infer the fictional gender of a subset of 
-3,321 movie characters (we raised the number of gendered 3,774 characters through
- manual annotation). Similarly, we collected the end credit position of a subset 
-of 3,321 characters as a proxy for their status.
+Using simple data processing heuristics in Python (see [project notebook](project.ipynb)) we collected the sum of the number of lines (list utterances) by using the movie_convos_scifi and linking this to the characterID in [scifi_characters.csv](scifi_characters.csv), we also got the gender; all this information was put into a new spreadsheet, which is the[sum_movie_convos_scifi.csv](sum_movie_convos_scifi.csv) data. To get the amount of words (text_utterance) from [movie_lines.csv](movie_lines.csv) we matched the characterID to the [scifi_characters.csv](scifi_characters.csv) characterID to get the relevant characters and their gender. 
