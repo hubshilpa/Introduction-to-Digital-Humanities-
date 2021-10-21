@@ -4,7 +4,7 @@
 - [The provenance of the data](#the-provenance-of-the-data)
 - [The data model used for the research questions](#the-data-model-used-for-the-research-questions)
 - [The curation of the data and the choices made](#the-curation-of-the-data-and-the-choices-made)
-- [The steps you took to annotate or enrich the data](#the-steps-you-took-to-annotate-or-enrich-the-data)
+- [The steps taken to annotate or enrich the data](#the-steps-taken-to-annotate-or-enrich-the-data)
 - [Tools](#tools)
 
 ## The provenance of the data
@@ -16,5 +16,5 @@
 
 
 ## The curation of the data and the choices made
-## The steps you took to annotate or enrich the data
+## The steps taken to annotate or enrich the data
 ## Tools 
