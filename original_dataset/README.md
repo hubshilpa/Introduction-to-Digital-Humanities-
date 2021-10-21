@@ -1,3 +1,5 @@
+See [Kaggle](https://www.kaggle.com/Cornell-University/movie-dialog-corpus) to see the original dataset and other information in more details. 
+
 Cornell Movie-Dialogs Corpus
 
 Distributed together with:
