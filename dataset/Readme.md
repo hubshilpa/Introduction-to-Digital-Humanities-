@@ -1,4 +1,4 @@
-## Contents of this README:
+## Table of contents of this README:
 - [A) Brief description](#a--brief-description)
 - [B) Files description](#b--files-description)
 - [C) Details on the collection procedure](#c--details-on-the-collection-procedure)
