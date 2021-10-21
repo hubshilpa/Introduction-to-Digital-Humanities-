@@ -89,4 +89,3 @@ gender of each interpreting actor to infer the fictional gender of a subset of
 3,321 movie characters (we raised the number of gendered 3,774 characters through
  manual annotation). Similarly, we collected the end credit position of a subset 
 of 3,321 characters as a proxy for their status.
-
