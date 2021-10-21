@@ -18,7 +18,7 @@ This corpus contains a metadata collection on sci-fi movies extracted from the [
 
 ## B. Files description
 
-In all files the field separator is a comma (","), except for in the two Excel files. The [movie_date](movie_data.xlsx) Excel file has all the other .csv files as separate sheets and also includes the analysis (results/graphs) of our paper. The [orginal_movie_dataset](orginal_movie_data.xlsx) Excel file has all the data of the [orginal dataset](../original_dataset) in seperate sheets.
+In all files the field separator is a comma (","), except for in the two Excel files. The [movie_data](movie_data.xlsx) Excel file has all the other .csv files as separate sheets and also includes the analysis (results/graphs) of our paper. The [orginal_movie_dataset](orginal_movie_data.xlsx) Excel file has all the data of the [orginal dataset](../original_dataset) in seperate sheets.
 
 - [movie_titles_scifi_chronological.csv](movie_titles_scifi_chronological.csv)
 	- contains information about each movie title
