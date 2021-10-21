@@ -5,11 +5,9 @@
 
 ## A. Brief description
 
-This corpus contains a metadata collection of fictional conversations on sci-fi movies extracted from the [orginal dataset](../original_dataset):
+This corpus contains a metadata collection on sci-fi movies extracted from the [orginal dataset](../original_dataset):
 
-- 220,579 conversational exchanges between 10,292 pairs of movie characters **CHANGE**
 - involves 631 characters from 100 movies
-- in total 304,713 utterances **CHANGE**
 - movie metadata included:
 	- genres
 	- release year
@@ -73,7 +71,7 @@ In all files the field separator is a comma (",")
 ## C. Details on the collection procedure
 
 We started with the [orginal dataset](../original_dataset), which we got from [Kaggle](https://www.kaggle.com/Cornell-University/movie-dialog-corpus). In order to answer our research question: "How were female (and female coded) characters represented in Science Fiction films between the years 1970 and 2010?" and the subquestions we needed to add more metadata for the gender, since in the [orginal dataset](../original_dataset) 66.6% was unlabeled ("?"), 22.7% male ("m"/ "M") and 10.7% female ("f"/"F"). This metadata on gender was added manually by looking at the movie scripts or finding the cast on the The Internet
- Movie Database (IMDB) website of the movie. Furthermore, we discarded all the movies without the genre "sci-fi" in the genres list column and all the movies before 1970, we were left with 107 unique titles with the metadata of 1,327 characters, IMDB ratings, no. of IMDB votes, genres and release year. Furthermore, from the [orginal dataset](../original_dataset) we discared the position on movie credits metadata, since a lot of this information was unlabeled. 
+ Movie Database (IMDB) website of the movie. Furthermore, we discarded all the movies without the genre "sci-fi" in the genres list column and all the movies before 1970, we were left with 100 unique titles with the metadata of 1,327 characters, IMDB ratings, no. of IMDB votes, genres and release year. Furthermore, from the [orginal dataset](../original_dataset) we discared the position on movie credits metadata, since a lot of this information was unlabeled. 
  
  Using simple data processing heuristics in Python (see [project notebook](project.ipynb)) we collected the sum of the number of lines (list utterances) by using the movie_convos_scifi and linking this to the characterID in scifi_characters.csv ..
 
