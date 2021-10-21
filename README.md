@@ -19,10 +19,12 @@ The [orginal dataset](original_dataset) used is created by Danescu-Niculescu-Miz
 
 ## The curation of the data and the choices made
 ## The steps taken to annotate or enrich the data
+See the [Readme.md of the dataset](https://github.com/hubshilpa/Introduction-to-Digital-Humanities-/tree/main/dataset#c-details-on-the-collection-procedure)
+
 ## Tools 
 The tools used to  enrich the orginal dataset of Danescu-Niculescu-Mizil & Lee (2011) are: 
 * Google Spreadsheets,  
 * Python, jupyter notebook
 * IMDB cast website or fan-wikis, and 
-* scripts of the movies 
+* scripts of movies 
 
