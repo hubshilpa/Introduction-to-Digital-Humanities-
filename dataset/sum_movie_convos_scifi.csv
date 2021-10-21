@@ -1,0 +1,631 @@
+characterID_1,movieID,movie_title,character_name,gender,sum_utterance
+u78,m5,the fifth element,CORNELIUS,m,118
+u80,m5,the fifth element,DIVA,f,15
+u81,m5,the fifth element,FINGER,m,25
+u82,m5,the fifth element,GIRL,f,14
+u83,m5,the fifth element,KOMMANDER,m,8
+u84,m5,the fifth element,KORBEN,m,175
+u87,m5,the fifth element,MACTILBURGH,m,17
+u90,m5,the fifth element,MUNRO,m,8
+u91,m5,the fifth element,PRESIDENT,m,15
+u92,m5,the fifth element,PRIEST,m,9
+u94,m5,the fifth element,SECRETARY,f,7
+u95,m5,the fifth element,SHADOW,m,10
+u178,m12,airplane ii: the sequel,COMMISSIONER,m,20
+u179,m12,airplane ii: the sequel,DUNN,m,17
+u180,m12,airplane ii: the sequel,ELAINE,f,147
+u181,m12,airplane ii: the sequel,JIMMY,m,16
+u182,m12,airplane ii: the sequel,JOE,m,14
+u185,m12,airplane ii: the sequel,MARY,f,17
+u186,m12,airplane ii: the sequel,OVEUR,m,9
+u187,m12,airplane ii: the sequel,PORTER,m,8
+u188,m12,airplane ii: the sequel,RECEPTIONIST,f,9
+u191,m12,airplane ii: the sequel,SIMON,m,12
+u192,m12,airplane ii: the sequel,STELLA,f,22
+u215,m14,alien nation,CASSANDRA,f,24
+u216,m14,alien nation,FEDORCHUK,m,9
+u217,m14,alien nation,HARCOURT,m,18
+u218,m14,alien nation,JETSON,m,187
+u220,m14,alien nation,MAFFET,m,6
+u221,m14,alien nation,O'NEAL,m,12
+u222,m14,alien nation,OPERATOR,f,8
+u223,m14,alien nation,PORTER,m,7
+u224,m14,alien nation,SYKES,m,46
+u228,m15,aliens,APONE,m,24
+u229,m15,aliens,BISHOP,m,29
+u230,m15,aliens,BURKE,m,78
+u231,m15,aliens,GORMAN,m,40
+u232,m15,aliens,HICKS,m,57
+u233,m15,aliens,HUDSON,m,46
+u234,m15,aliens,LYDECKER,m,6
+u235,m15,aliens,MED-TECH,f,7
+u236,m15,aliens,NEWT,f,59
+u237,m15,aliens,RIPLEY,f,13
+u529,m34,blade runner,BATTY,m,99
+u530,m34,blade runner,BRYANT,m,32
+u531,m34,blade runner,CHEW,m,7
+u532,m34,blade runner,DECKARD,m,288
+u533,m34,blade runner,DECKARD'S VOICE,m,7
+u536,m34,blade runner,HOLDEN,m,21
+u539,m34,blade runner,PRIS,f,40
+u643,m41,the butterfly effect,ANDREA,f,98
+u644,m41,the butterfly effect,CARLOS,m,16
+u645,m41,the butterfly effect,DR. REDFIELD,m,28
+u646,m41,the butterfly effect,EVAN,m,276
+u650,m41,the butterfly effect,KAYLEIGH,f,14
+u651,m41,the butterfly effect,LENNY,m,8
+u737,m47,dark star,BOILER,m,66
+u738,m47,dark star,BOMB #19,n,11
+u739,m47,dark star,BOMB #20,n,72
+u740,m47,dark star,DOOLITTLE,m,139
+u744,m48,dark angel,BLONDE,f,10
+u745,m48,dark angel,BRUNO,m,39
+u746,m48,dark angel,DARREN,m,38
+u747,m48,dark angel,HERBAL,m,8
+u748,m48,dark angel,INGA,f,20
+u749,m48,dark angel,KENDRA,f,11
+u750,m48,dark angel,LAUREN,f,35
+u751,m48,dark angel,LOGAN,m,156
+u752,m48,dark angel,LYDIA,f,28
+u753,m48,dark angel,MAX,f,214
+u777,m50,donnie darko,AUDIENCE,x,9
+u778,m50,donnie darko,DAVID,m,9
+u779,m50,donnie darko,DONNIE,m,400
+u781,m50,donnie darko,DR. THURMAN,m,14
+u782,m50,donnie darko,EDDIE,m,8
+u783,m50,donnie darko,ELIZABETH,f,14
+u787,m50,donnie darko,LEROY,m,7
+u788,m50,donnie darko,MS. FARMER,f,24
+u791,m50,donnie darko,RONALD,m,17
+u858,m55,eternal sunshine of the spotless mind,CARRIE,f,21
+u859,m55,eternal sunshine of the spotless mind,CLEMENTINE,f,477
+u860,m55,eternal sunshine of the spotless mind,CLEMENTINE'S VOICE,f,26
+u861,m55,eternal sunshine of the spotless mind,JOEL,m,110
+u862,m55,eternal sunshine of the spotless mind,MARY,f,128
+u863,m55,eternal sunshine of the spotless mind,MIERZWIAK,m,27
+u866,m55,eternal sunshine of the spotless mind,OLD WOMAN,f,7
+u867,m55,eternal sunshine of the spotless mind,PATRICK,m,32
+u879,m57,event horizon,COOPER,m,82
+u880,m57,event horizon,DJ,m,48
+u881,m57,event horizon,HOLLIS,m,23
+u882,m57,event horizon,JUSTIN,m,31
+u883,m57,event horizon,LYLE,m,10
+u884,m57,event horizon,MILLER,m,298
+u885,m57,event horizon,PETERS,f,36
+u886,m57,event horizon,SMITH,m,39
+u887,m57,event horizon,STARCK,f,34
+u889,m58,fantastic four,ALICIA,f,20
+u890,m58,fantastic four,BEN,m,145
+u892,m58,fantastic four,DOCTOR,m,11
+u893,m58,fantastic four,JOHNNY,m,88
+u894,m58,fantastic four,LEONARD,m,26
+u895,m58,fantastic four,REED,m,122
+u897,m58,fantastic four,SUE,f,31
+u898,m58,fantastic four,THE THING,m,7
+u1024,m67,godzilla,ANIMAL,m,57
+u1025,m67,godzilla,AUDREY,f,108
+u1027,m67,godzilla,ELSIE,f,18
+u1028,m67,godzilla,JEAN-CLAUDE,m,8
+u1030,m67,godzilla,LT. ANDERSON,m,6
+u1032,m67,godzilla,MAJOR HICKS,m,57
+u1034,m67,godzilla,NICK,m,51
+u1036,m68,galaxy quest,ALEXANDER,m,146
+u1037,m68,galaxy quest,BRANDON,m,63
+u1038,m68,galaxy quest,COMPUTER,n,22
+u1039,m68,galaxy quest,FRED,m,32
+u1040,m68,galaxy quest,GUY,m,57
+u1041,m68,galaxy quest,GWEN,f,109
+u1042,m68,galaxy quest,JASON,m,133
+u1044,m68,galaxy quest,LATHE,m,12
+u1120,m74,ghostbusters ii,DANA,f,163
+u1121,m74,ghostbusters ii,ELAINE,f,6
+u1123,m74,ghostbusters ii,HARDEMEYER,m,13
+u1124,m74,ghostbusters ii,JANINE,f,31
+u1125,m74,ghostbusters ii,JANOSZ,m,34
+u1126,m74,ghostbusters ii,JUDGE,m,19
+u1127,m74,ghostbusters ii,LOUIS,m,17
+u1128,m74,ghostbusters ii,MILTON,m,7
+u1129,m74,ghostbusters ii,PROSECUTOR,f,8
+u1131,m74,ghostbusters ii,SPENGLER,m,71
+u1132,m74,ghostbusters ii,STANTZ,m,113
+u1133,m74,ghostbusters ii,VENKMAN,m,16
+u1136,m75,ghostbusters,BRIDE,f,12
+u1137,m75,ghostbusters,COED,f,13
+u1138,m75,ghostbusters,DANA,f,122
+u1139,m75,ghostbusters,DEAN YAEGER,m,7
+u1140,m75,ghostbusters,FIRST BUM,m,8
+u1142,m75,ghostbusters,HEAD LIBRARIAN,m,8
+u1143,m75,ghostbusters,JANINE,f,29
+u1145,m75,ghostbusters,MANAGER,m,6
+u1146,m75,ghostbusters,PECK,m,36
+u1148,m75,ghostbusters,SOPHOMORE,m,16
+u1149,m75,ghostbusters,SPENGLER,m,87
+u1150,m75,ghostbusters,STANTZ,m,110
+u1422,m95,i am legend,EMMA,f,65
+u1423,m95,i am legend,FRENCH VOICE,x,8
+u1424,m95,i am legend,NEVILLE,m,24
+u1433,m97,independence day,ALICIA,f,7
+u1434,m97,independence day,CONSTANCE,f,53
+u1435,m97,independence day,DAVID,m,106
+u1436,m97,independence day,GENERAL GREY,m,59
+u1437,m97,independence day,JASMINE,f,43
+u1438,m97,independence day,JIMMY,m,17
+u1441,m97,independence day,MIGUEL,m,26
+u1443,m97,independence day,NIMZIKI,m,17
+u1444,m97,independence day,OKUN,m,9
+u1445,m97,independence day,OKUN/ALIEN,n,10
+u1469,m100,innerspace,AL,m,605
+u1470,m100,innerspace,BURR,m,26
+u1471,m100,innerspace,COLIN,m,15
+u1472,m100,innerspace,DIETER,m,27
+u1473,m100,innerspace,FINNEGAN,m,57
+u1474,m100,innerspace,GRUNER,m,10
+u1475,m100,innerspace,JOE,m,291
+u1476,m100,innerspace,LEADER,m,28
+u1481,m100,innerspace,TECH 2,m,10
+u1628,m107,jason x,AZRAEL,m,17
+u1629,m107,jason x,BOEMAN,m,108
+u1630,m107,jason x,BRODSKI,m,70
+u1632,m107,jason x,DELONGPRE,m,130
+u1633,m107,jason x,FAT LOU,m,11
+u1634,m107,jason x,JANESSA,f,36
+u1635,m107,jason x,KAY-EM 14,f,45
+u1636,m107,jason x,KICKER,m,10
+u1637,m107,jason x,KKINSA,f,15
+u1638,m107,jason x,PEREZ,m,10
+u1639,m107,jason x,RIZZO,f,52
+u1712,m113,krull,COLWYN,m,272
+u1713,m113,krull,CYCLOPS,m,21
+u1714,m113,krull,ERGO,m,64
+u1715,m113,krull,LYSSA,f,10
+u1716,m113,krull,QUEEN,f,21
+u1717,m113,krull,ROWAN,m,9
+u1718,m113,krull,SEER,m,12
+u1720,m113,krull,TORQUIL,m,32
+u1724,m113,krull,WIDOW,f,40
+u1853,m122,logan's run,BILLY,m,9
+u1854,m122,logan's run,BOX,m,33
+u1855,m122,logan's run,DOC,m,11
+u1856,m122,logan's run,FRANCIS,m,51
+u1857,m122,logan's run,HOLLY,f,7
+u1858,m122,logan's run,JESSICA,f,247
+u1859,m122,logan's run,LOGAN,m,65
+u1860,m122,logan's run,MAN,m,7
+u1901,m125,men in black,COWAN,m,70
+u1902,m125,men in black,DEE,m,23
+u1903,m125,men in black,INS LEADER,m,14
+u1904,m125,men in black,JAY,m,180
+u1905,m125,men in black,JEEBS,m,13
+u1906,m125,men in black,KAY,m,99
+u1910,m125,men in black,PRESIDENT,m,8
+u1915,m126,minority report,AGATHA,f,55
+u1916,m126,minority report,ANDERTON,m,428
+u1917,m126,minority report,ANDERTON'S VOICE,m,6
+u1918,m126,minority report,BURGESS,m,73
+u1920,m126,minority report,CUSTOMER,m,8
+u1922,m126,minority report,FLETCHER,m,50
+u1924,m126,minority report,HOWARD,m,13
+u1928,m126,minority report,LARA,f,38
+u1933,m126,minority report,WALLY,m,12
+u2696,m176,shivers,BETTS,f,11
+u2697,m176,shivers,BOY,m,7
+u2698,m176,shivers,DETECTIVE,m,21
+u2699,m176,shivers,FORSYTHE,f,26
+u2701,m176,shivers,JANINE,f,13
+u2702,m176,shivers,MR. SPERGAZZI,m,10
+u2703,m176,shivers,PARKINS,m,15
+u2704,m176,shivers,ROLLO,m,46
+u2743,m179,signs,BO,f,40
+u2744,m179,signs,COLLEEN,f,16
+u2745,m179,signs,CREWCUT GUY,m,9
+u2746,m179,signs,GRAHAM,m,187
+u2747,m179,signs,MERRILL,m,12
+u2804,m184,slither,BILL,m,116
+u2805,m184,slither,BRENDA,f,18
+u2806,m184,slither,BUTCHER,m,9
+u2807,m184,slither,GRANT,f,34
+u2809,m184,slither,KYLIE,f,8
+u2810,m184,slither,MARGARET,f,10
+u2846,m187,solaris,GIBARIAN,m,14
+u2847,m187,solaris,KELVIN,m,333
+u2849,m187,solaris,SARTORIUS,m,19
+u2863,m189,spider-man,ADELE,f,10
+u2864,m189,spider-man,BEN,m,26
+u2865,m189,spider-man,FLASH,m,16
+u2866,m189,spider-man,HARRY,m,27
+u2867,m189,spider-man,HOGAN,m,9
+u2868,m189,spider-man,JAMESON,m,34
+u2869,m189,spider-man,LEIBER,m,10
+u2870,m189,spider-man,LETTERMAN,m,12
+u2871,m189,spider-man,LIZ,f,95
+u2872,m189,spider-man,MAROTTA,m,24
+u2873,m189,spider-man,MAY,f,33
+u2874,m189,spider-man,NURSE VOICE,x,6
+u2875,m189,spider-man,OCK,m,38
+u2876,m189,spider-man,PETER,m,32
+u2877,m189,spider-man,REISS,m,12
+u2878,m189,spider-man,ROZ,m,27
+u2897,m191,star trek: generations,B'ETOR,f,13
+u2898,m191,star trek: generations,CHEKOV,m,9
+u2899,m191,star trek: generations,DATA,m,78
+u2900,m191,star trek: generations,DEMORA,f,11
+u2901,m191,star trek: generations,GUINAN,f,38
+u2902,m191,star trek: generations,HARRIMAN,m,14
+u2903,m191,star trek: generations,KIRK,m,53
+u2904,m191,star trek: generations,LA FORGE,m,16
+u2906,m191,star trek: generations,PICARD,m,68
+u2907,m191,star trek: generations,RIKER,m,26
+u2912,m192,star trek iii: the search for spock,1ST OFFICER,x,9
+u2913,m192,star trek iii: the search for spock,CAPTAIN,n,7
+u2914,m192,star trek iii: the search for spock,CHEKOV,m,33
+u2915,m192,star trek iii: the search for spock,COMM OFFICER,x,8
+u2916,m192,star trek iii: the search for spock,DAVID,m,84
+u2917,m192,star trek iii: the search for spock,ESTEBAN,m,22
+u2918,m192,star trek iii: the search for spock,KIRK,m,220
+u2919,m192,star trek iii: the search for spock,KRUGE,m,42
+u2920,m192,star trek iii: the search for spock,LIEUTENANT,m,14
+u2932,m193,star trek: the wrath of khan,BONES,m,77
+u2933,m193,star trek: the wrath of khan,CAROL,f,61
+u2934,m193,star trek: the wrath of khan,CHEKOV,m,36
+u2935,m193,star trek: the wrath of khan,DAVID,m,40
+u2936,m193,star trek: the wrath of khan,JOACHIM,m,29
+u2937,m193,star trek: the wrath of khan,KHAN,m,32
+u2938,m193,star trek: the wrath of khan,KIRK,m,302
+u2940,m193,star trek: the wrath of khan,SAAVIK,f,39
+u2949,m194,star trek iv: the voyage home,AMANDA,f,14
+u2950,m194,star trek iv: the voyage home,BOB,m,15
+u2951,m194,star trek iv: the voyage home,BONES,m,97
+u2952,m194,star trek iv: the voyage home,CAPTAIN,f,7
+u2953,m194,star trek iv: the voyage home,CHEKOV,m,44
+u2954,m194,star trek iv: the voyage home,COUNCIL PRESIDENT,m,6
+u2957,m194,star trek iv: the voyage home,GILLIAN,f,147
+u2958,m194,star trek iv: the voyage home,KIRK,m,242
+u2959,m194,star trek iv: the voyage home,KLINGON AMBASSADOR,m,7
+u2961,m194,star trek iv: the voyage home,NICHOLS,m,23
+u2962,m194,star trek iv: the voyage home,PILOT,m,6
+u2964,m194,star trek iv: the voyage home,SAREK,m,9
+u2968,m194,star trek iv: the voyage home,SULU,m,7
+u2971,m195,star trek: insurrection,ANIJ,f,65
+u2972,m195,star trek: insurrection,ARTIM,m,47
+u2973,m195,star trek: insurrection,CRUSHER,f,18
+u2974,m195,star trek: insurrection,DATA,m,31
+u2975,m195,star trek: insurrection,DOUGHERTY,m,72
+u2976,m195,star trek: insurrection,GALLATIN,m,29
+u2977,m195,star trek: insurrection,LA FORGE,m,43
+u2978,m195,star trek: insurrection,NARA,m,9
+u2979,m195,star trek: insurrection,PERIM,f,12
+u2980,m195,star trek: insurrection,PICARD,m,102
+u2982,m195,star trek: insurrection,RIKER,m,38
+u2984,m195,star trek: insurrection,RU'AFO,m,9
+u2990,m196,star trek: first contact,ADMIRAL HAYES,m,8
+u2991,m196,star trek: first contact,BEVERLY,f,47
+u2992,m196,star trek: first contact,BORG QUEEN,f,40
+u2993,m196,star trek: first contact,DATA,m,32
+u2994,m196,star trek: first contact,DOCTOR,m,10
+u2995,m196,star trek: first contact,GEORDI,m,62
+u2996,m196,star trek: first contact,GEORDI'S VOICE,m,10
+u2997,m196,star trek: first contact,PICARD,m,142
+u2999,m196,star trek: first contact,RIKER,m,53
+u3000,m196,star trek: first contact,RIKER'S COM VOICE,m,9
+u3003,m196,star trek: first contact,TROI,f,10
+u3006,m197,star trek vi: the undiscovered country,ADMIRAL DONALD,m,7
+u3007,m197,star trek vi: the undiscovered country,BONES,m,106
+u3008,m197,star trek vi: the undiscovered country,CHANG,m,47
+u3009,m197,star trek vi: the undiscovered country,CHEKOV,m,42
+u3010,m197,star trek vi: the undiscovered country,COMMUNICATIONS OFFICER,m,9
+u3011,m197,star trek vi: the undiscovered country,GORKON,m,14
+u3012,m197,star trek vi: the undiscovered country,KIRK,m,176
+u3013,m197,star trek vi: the undiscovered country,LT. SAAVIK,f,41
+u3016,m197,star trek vi: the undiscovered country,OFFICER,x,7
+u3018,m197,star trek vi: the undiscovered country,SCIENCE OFFICER,m,13
+u3019,m197,star trek vi: the undiscovered country,SCOTTY,m,32
+u3020,m197,star trek vi: the undiscovered country,SPOCK,m,22
+u3023,m198,star trek: nemesis,B-9,m,31
+u3024,m198,star trek: nemesis,BEVERLY,f,39
+u3025,m198,star trek: nemesis,DATA,m,121
+u3026,m198,star trek: nemesis,DEANNA,f,46
+u3027,m198,star trek: nemesis,DONATRA,f,11
+u3028,m198,star trek: nemesis,GEORDI,m,41
+u3030,m198,star trek: nemesis,JANEWAY,f,13
+u3031,m198,star trek: nemesis,PICARD,m,204
+u3032,m198,star trek: nemesis,REMAN OFFICER,m,10
+u3033,m198,star trek: nemesis,RIKER,m,13
+u3034,m198,star trek: nemesis,SHINZON,m,50
+u3038,m199,starman,BENNY,m,15
+u3039,m199,starman,CLERK,m,16
+u3040,m199,starman,COOK,m,17
+u3041,m199,starman,DRIVER,m,10
+u3042,m199,starman,FOX,m,84
+u3043,m199,starman,JENNY,f,392
+u3044,m199,starman,LYMAN,m,26
+u3045,m199,starman,MAJOR BELL,m,32
+u3046,m199,starman,MAN,m,15
+u3048,m199,starman,SECURITY GUARD,x,11
+u3049,m199,starman,SHERMIN,m,7
+u3053,m200,strange days,BEEMER,m,8
+u3054,m200,strange days,EDUARDO,m,9
+u3055,m200,strange days,FAITH,f,94
+u3056,m200,strange days,KEITH,m,19
+u3057,m200,strange days,LENNY,m,373
+u3058,m200,strange days,MACE,f,26
+u3064,m201,suspect zero,CANDY,x,6
+u3065,m201,suspect zero,DAITZ,m,9
+u3066,m201,suspect zero,DUNCAN,m,10
+u3067,m201,suspect zero,DYLAN,m,44
+u3068,m201,suspect zero,EAGLEFOOT,m,14
+u3069,m201,suspect zero,FOREMAN,f,8
+u3070,m201,suspect zero,HAROLD,m,30
+u3071,m201,suspect zero,JANITA,f,12
+u3072,m201,suspect zero,KOESSLER,m,123
+u3073,m201,suspect zero,KULOK,f,184
+u3074,m201,suspect zero,LOW,m,54
+u3075,m201,suspect zero,MACKELWAY,m,84
+u3197,m211,the day the earth stood still,BARNHARDT,m,63
+u3198,m211,the day the earth stood still,BOBBY,m,113
+u3199,m211,the day the earth stood still,CAPTAIN,m,8
+u3200,m211,the day the earth stood still,HARLEY,m,52
+u3201,m211,the day the earth stood still,HELEN,f,115
+u3202,m211,the day the earth stood still,HILDA,f,6
+u3203,m211,the day the earth stood still,JEWELER,m,8
+u3204,m211,the day the earth stood still,KLAATU,m,19
+u3218,m213,the thing,BENNINGS,m,13
+u3219,m213,the thing,BLAIR,m,57
+u3220,m213,the thing,CHILDS,m,112
+u3222,m213,the thing,DR. COPPER,m,44
+u3223,m213,the thing,FUCHS,m,8
+u3224,m213,the thing,GARRY,m,29
+u3225,m213,the thing,MACREADY,m,78
+u3226,m213,the thing,NAULS,m,10
+u3243,m215,the jacket,BECKER,m,84
+u3244,m215,the jacket,DAMON,m,15
+u3245,m215,the jacket,DR. GRIES,m,9
+u3246,m215,the jacket,DR. LORENSON,f,13
+u3247,m215,the jacket,DR. MORGAN,m,7
+u3248,m215,the jacket,JACKIE,f,144
+u3250,m215,the jacket,LORENSON,f,96
+u3251,m215,the jacket,MACKENZIE,f,30
+u3252,m215,the jacket,STARKS,m,77
+u3327,m221,total recall,BENNY,m,36
+u3328,m221,total recall,CALLER,x,7
+u3329,m221,total recall,CLERK,m,11
+u3330,m221,total recall,COHAAGEN,m,53
+u3331,m221,total recall,DR. LULL,f,35
+u3332,m221,total recall,EDGEMAR,m,26
+u3333,m221,total recall,EVERETT,m,13
+u3334,m221,total recall,GEORGE,m,20
+u3335,m221,total recall,HARRY,m,30
+u3336,m221,total recall,HELM,m,23
+u3337,m221,total recall,JOHNNY,x,10
+u3338,m221,total recall,LORI,f,85
+u3339,m221,total recall,MCCLANE,m,34
+u3340,m221,total recall,MELINA,f,78
+u3341,m221,total recall,QUAID,m,8
+u3520,m232,the abyss,BUD,m,239
+u3521,m232,the abyss,CATFISH,m,25
+u3522,m232,the abyss,COFFEY,m,25
+u3523,m232,the abyss,HIPPY,m,34
+u3525,m232,the abyss,LINDSEY,f,15
+u3579,m236,alien,BROUSSARD,n,96
+u3580,m236,alien,COMPUTER,n,20
+u3581,m236,alien,FAUST,n,95
+u3582,m236,alien,HUNTER,n,153
+u3583,m236,alien,MELKONIS,n,107
+u3584,m236,alien,ROBY,n,166
+u3586,m237,alien vs. predator,ACKLAND,m,24
+u3587,m237,alien vs. predator,BEAUVAIS,f,8
+u3588,m237,alien vs. predator,CASSIE,f,64
+u3589,m237,alien vs. predator,DE VRIES,f,54
+u3590,m237,alien vs. predator,DILLER,m,9
+u3591,m237,alien vs. predator,DRISCOLL,m,11
+u3592,m237,alien vs. predator,GUTTIEREZ,m,7
+u3593,m237,alien vs. predator,HIROKO,f,92
+u3594,m237,alien vs. predator,KAMEN,m,14
+u3824,m253,back to the future,BIFF,m,7
+u3825,m253,back to the future,CLERK,x,8
+u3826,m253,back to the future,DICK,m,8
+u3827,m253,back to the future,EILEEN,f,54
+u3828,m253,back to the future,GEORGE,m,47
+u3829,m253,back to the future,MARTY,m,200
+u3848,m255,the adventures of buckaroo banzai across the 8th dimension,BILLY,m,9
+u3849,m255,the adventures of buckaroo banzai across the 8th dimension,BUCKAROO BANZAI,m,181
+u3850,m255,the adventures of buckaroo banzai across the 8th dimension,BUCKAROO BANZAI ON TV,m,9
+u3852,m255,the adventures of buckaroo banzai across the 8th dimension,JOHN BIGBOOT√â,m,9
+u3855,m255,the adventures of buckaroo banzai across the 8th dimension,NATIONAL SECURITY MAN,m,7
+u3857,m255,the adventures of buckaroo banzai across the 8th dimension,PENNY PRIDDY,f,9
+u3858,m255,the adventures of buckaroo banzai across the 8th dimension,PERFECT TOMMY,m,30
+u4233,m283,brazil,DOWSER,m,42
+u4234,m283,brazil,GENT,m,10
+u4235,m283,brazil,GIRL,f,9
+u4236,m283,brazil,GIRL BUTTLE,f,7
+u4237,m283,brazil,HELPMANN,m,39
+u4239,m283,brazil,JACK,m,131
+u4240,m283,brazil,JILL,f,146
+u4241,m283,brazil,KURTZMAN,m,63
+u4242,m283,brazil,LIME,m,22
+u4243,m283,brazil,MATTHEWS,x,6
+u4244,m283,brazil,MOTHER,f,34
+u4245,m283,brazil,MRS BUTTLE,f,9
+u4246,m283,brazil,MRS TERRAIN,f,21
+u4247,m283,brazil,PHONE VOICE,x,11
+u4248,m283,brazil,PORTER,m,13
+u4249,m283,brazil,SAM,m,62
+u4555,m301,a clockwork orange,ALEX,m,391
+u4557,m301,a clockwork orange,CHECK-IN,m,10
+u4558,m301,a clockwork orange,CHIEF GUARD,m,12
+u4560,m301,a clockwork orange,DIM,m,9
+u4565,m301,a clockwork orange,EM,f,13
+u4567,m301,a clockwork orange,GOVERNOR,m,9
+u4599,m304,contact,A.T.L.,x,10
+u4600,m304,contact,CHAIRMAN,m,9
+u4601,m304,contact,DRUMLIN,m,105
+u4602,m304,contact,ELLIE,f,409
+u4607,m304,contact,KITZ,m,9
+u4739,m315,dark city,BARBER,m,11
+u4740,m315,dark city,BUMSTEAD,m,118
+u4742,m315,dark city,KARL,m,10
+u4744,m315,dark city,MISTER BLACK,m,8
+u4745,m315,dark city,PRIEST,m,10
+u4746,m315,dark city,SCHREBER,m,52
+u4749,m315,dark city,WHITE,x,8
+u4760,m317,day of the dead,CHICO,m,28
+u4761,m317,day of the dead,DIESEL,m,9
+u4762,m317,day of the dead,GASPARILLA,m,21
+u4763,m317,day of the dead,JOHN,m,71
+u4764,m317,day of the dead,JULIE,f,6
+u4766,m317,day of the dead,MARIA,f,17
+u4767,m317,day of the dead,MARY,f,36
+u4769,m317,day of the dead,RHODES,m,12
+u4771,m317,day of the dead,TOBY,m,7
+u4789,m319,deep rising,CAPTAIN,x,11
+u4790,m319,deep rising,FINNEGAN,m,215
+u4791,m319,deep rising,HANOVER,m,10
+u4793,m319,deep rising,MULLIGAN,m,26
+u4813,m321,demolition man,BENNETT,x,15
+u4814,m321,demolition man,CASSY,f,8
+u4815,m321,demolition man,DUBBS,m,16
+u4816,m321,demolition man,GALLAGHER,m,90
+u4817,m321,demolition man,KIMBERLY,f,9
+u4819,m321,demolition man,SANCHEZ,m,144
+u4821,m321,demolition man,WADE,m,21
+u4921,m328,m,BARON,m,9
+u4922,m328,dune,DUKE LETO,m,11
+u4923,m328,dune,EMPEROR,m,23
+u4924,m328,dune,GURNEY,m,32
+u4925,m328,dune,JESSICA,f,54
+u4926,m328,dune,KYNES,m,18
+u4929,m328,dune,PAUL,m,61
+u5113,m339,escape from l.a.,BRAZEN,m,14
+u5114,m339,escape from l.a.,CUERVO JONES,m,31
+u5115,m339,escape from l.a.,HERSHE,m,37
+u5116,m339,escape from l.a.,MALLOY,m,57
+u5117,m339,escape from l.a.,MAP TO THE STARS EDDIE,m,40
+u5118,m339,escape from l.a.,PENDEJO BOB,m,7
+u5119,m339,escape from l.a.,PIPELINE,m,11
+u5120,m339,escape from l.a.,PLISSKEN,m,52
+u5177,m343,face/off,ARCHER,m,204
+u5178,m343,face/off,BUZZ,m,8
+u5179,m343,face/off,CASTOR,m,135
+u5210,m345,the fantastic four,ALICIA,f,20
+u5211,m345,the fantastic four,BEN,m,145
+u5213,m345,the fantastic four,DOCTOR,m,11
+u5214,m345,the fantastic four,JOHNNY,m,88
+u5215,m345,the fantastic four,LEONARD,m,26
+u5216,m345,the fantastic four,REED,m,122
+u5218,m345,the fantastic four,SUE,f,31
+u5219,m345,the fantastic four,THE THING,m,7
+u5392,m358,frequency,DARYL,m,16
+u5393,m358,frequency,DESK SGT.,n,9
+u5394,m358,frequency,FRANK,m,368
+u5396,m358,frequency,GORDO,m,32
+u5397,m358,frequency,JOHN,m,88
+u5478,m365,gattaca,ANTON,m,15
+u5479,m365,gattaca,ANTONIO,m,12
+u5480,m365,gattaca,CAESAR,m,9
+u5481,m365,gattaca,DETECTIVE HUGO,m,56
+u5482,m365,gattaca,DIRECTOR JOSEF,m,17
+u5483,m365,gattaca,EUGENE,m,142
+u5484,m365,gattaca,GENETICIST,m,11
+u5485,m365,gattaca,GERMAN,m,19
+u5486,m365,gattaca,HUGO,m,9
+u5488,m365,gattaca,IRENE,f,65
+u5489,m365,gattaca,JEROME,m,13
+u5491,m365,gattaca,MARIA,f,12
+u5849,m388,highlander iii: the sorcerer,BEDSOE,m,89
+u5851,m388,highlander iii: the sorcerer,CAVANAUGH,m,79
+u5853,m388,highlander iii: the sorcerer,FARMER,m,14
+u5854,m388,highlander iii: the sorcerer,HOODED MAN,x,8
+u5855,m388,highlander iii: the sorcerer,ISABELLE,f,20
+u5856,m388,highlander iii: the sorcerer,JENNIFER,f,139
+u5857,m388,highlander iii: the sorcerer,KILVARA,m,18
+u5858,m388,highlander iii: the sorcerer,MACLEOD,m,12
+u5859,m388,highlander iii: the sorcerer,MCCLEOD,m,31
+u5860,m388,highlander iii: the sorcerer,MR. PARKER,m,7
+u6145,m409,jurassic park iii,AMANDA,f,122
+u6146,m409,jurassic park iii,BILLY,m,55
+u6147,m409,jurassic park iii,ELLIE,f,25
+u6148,m409,jurassic park iii,ERIC,m,51
+u6149,m409,jurassic park iii,GRANT,m,33
+u6151,m410,the lost world: jurassic park,AJAY,m,19
+u6152,m410,the lost world: jurassic park,EDDIE,m,13
+u6153,m410,the lost world: jurassic park,HAMMOND,m,22
+u6154,m410,the lost world: jurassic park,JUTTSON,m,21
+u6155,m410,the lost world: jurassic park,KELLY,f,36
+u6156,m410,the lost world: jurassic park,LUDLOW,m,64
+u6157,m410,the lost world: jurassic park,MALCOLM,m,93
+u6158,m410,the lost world: jurassic park,NICK,m,29
+u6159,m410,the lost world: jurassic park,ROLAND,m,10
+u6161,m411,jurassic park,ARNOLD,m,41
+u6162,m411,jurassic park,DODGSON,m,10
+u6163,m411,jurassic park,ELLIE,f,196
+u6164,m411,jurassic park,GENNARO,m,43
+u6165,m411,jurassic park,GRANT,m,180
+u6166,m411,jurassic park,HAMMOND,m,40
+u6168,m411,jurassic park,LEX,f,29
+u6182,m413,kafka,ANNA,f,10
+u6183,m413,kafka,ASSISTANTS,m,8
+u6184,m413,kafka,BEARDED ANARCHIST,m,10
+u6185,m413,kafka,BIZZLEBEK,m,43
+u6186,m413,kafka,BURGEL,m,26
+u6187,m413,kafka,CHIEF CLERK,m,29
+u6188,m413,kafka,GABRIELA,f,110
+u6189,m413,kafka,INSPECTOR,m,41
+u6190,m413,kafka,KAFKA,m,78
+u6192,m413,kafka,LUDWIG,m,28
+u6289,m421,leviathan,BECK,m,183
+u6290,m421,leviathan,BOWMAN,m,22
+u6291,m421,leviathan,COBB,m,50
+u6292,m421,leviathan,DEJESUS,m,12
+u6293,m421,leviathan,DOC,m,19
+u6294,m421,leviathan,JONES,m,38
+u6296,m421,leviathan,SIXPACK,m,9
+u6516,m433,the matrix,AGENT JONES,m,11
+u6517,m433,the matrix,AGENT SMITH,m,14
+u6518,m433,the matrix,APOC,m,8
+u6519,m433,the matrix,CHOI,m,14
+u6520,m433,the matrix,CYPHER,m,67
+u6522,m433,the matrix,MORPHEUS,m,175
+u6523,m433,the matrix,NEO,m,176
+u6526,m433,the matrix,TANK,m,25
+u6528,m434,halloween iii: season of the witch,BOY,m,16
+u6529,m434,halloween iii: season of the witch,BOY #1,m,11
+u6530,m434,halloween iii: season of the witch,BOY #2,m,10
+u6531,m434,halloween iii: season of the witch,BOYS,m,10
+u6532,m434,halloween iii: season of the witch,CHARLIE,m,352
+u6536,m434,halloween iii: season of the witch,JOEY,m,8
+u6537,m434,halloween iii: season of the witch,JOHNNY BOY,m,33
+u6539,m434,halloween iii: season of the witch,MICHAEL,m,7
+u6604,m440,mimic,JEREMY,m,6
+u6605,m440,mimic,JOSH,m,32
+u6606,m440,mimic,LEONARD,m,76
+u6607,m440,mimic,MANNY,m,10
+u6608,m440,mimic,PETER,m,87
+u6609,m440,mimic,RICKY,m,8
+u6610,m440,mimic,SIRI,f,24
+u6841,m457,neuromancer,3JANE,f,23
+u6842,m457,neuromancer,AEROL,m,13
+u6843,m457,neuromancer,ARMITAGE,m,103
+u6844,m457,neuromancer,BAO/WINTERMUTE,m,16
+u6845,m457,neuromancer,CASE,m,259
+u6851,m457,neuromancer,MOLLY,f,12
+u7054,m472,pitch black,AUDREY,f,31
+u7055,m472,pitch black,FRY,f,287
+u7056,m472,pitch black,IMAM,m,36
+u7057,m472,pitch black,JOHNS,m,70
+u7059,m472,pitch black,PARIS,m,8
+u7060,m472,pitch black,RIDDICK,m,10
+u7063,m473,planet of the apes,CORNELIUS,m,100
+u7064,m473,planet of the apes,DODGE,m,21
+u7065,m473,planet of the apes,GALEN,m,13
+u7066,m473,planet of the apes,HONORIUS,m,23
+u7067,m473,planet of the apes,JULIUS,m,17
+u7068,m473,planet of the apes,LANDON,m,44
+u7069,m473,planet of the apes,LUCIUS,m,36
+u7070,m473,planet of the apes,MAXIMUS,m,10
+u7071,m473,planet of the apes,PRESIDENT,m,26
+u7072,m473,planet of the apes,TAYLOR,m,102
+u7073,m473,planet of the apes,ZAIUS,m,24
+u7125,m478,predator,BILLY,m,9
+u7126,m478,predator,DILLON,m,59
+u7127,m478,predator,MAC,m,12
+u7128,m478,predator,PHILIPS,m,9
+u7129,m478,predator,RAMIREZ,m,16
