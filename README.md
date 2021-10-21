@@ -1,6 +1,6 @@
-# Introduction-to-Digital-Humanities-
-# **Investigating female representation in Science Fiction movies**
-### *group project*
+<p align="center"> # **Investigating female representation in Science Fiction movies** (group 6)
+##  Introduction-to-Digital-Humanities- </p>
+
 
 ## The provenance of the data
 ## The data model used for the research questions
