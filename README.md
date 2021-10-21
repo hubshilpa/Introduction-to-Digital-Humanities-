@@ -14,7 +14,7 @@ The [orginal dataset](original_dataset) used is created by Danescu-Niculescu-Miz
 Movies were removed from the database if a movie script was not found. The IMDB score was added to enrich the data, while movies with less than five IMDB votes were taken out of the database. Furthermore, characters with less than five conversational exchanges were removed. Metadata was added to include the gender and position in credits for the characters. 
 
 The data is clearly labeled and organized making information regarding items like genre or character lists of a film easily accessible. Additionally the sources for materials such as the script information are provided with URLs for the source material allowing for additional verification of accuracy. 
-The data is labeled by using a field separator: " +++$+++ ", whereby the description about the data in the field can be found in the files description in the [README](https://github.com/hubshilpa/Introduction-to-Digital-Humanities-/tree/main/original_dataset#readme)
+The data is labeled by using a field separator: " +++$+++ ", whereby the description about the data in the field can be found in the files description in the [README](https://github.com/hubshilpa/Introduction-to-Digital-Humanities-/tree/main/original_dataset#readme).
 
 
 ## The data model used for the research questions
