@@ -16,10 +16,11 @@ The [orginal dataset](original_dataset) used is created by Danescu-Niculescu-Miz
   <img width="700" src="data_model_image.png" alt="Figure 1:  A model of the data that will be used in this research.">
 </p>
 
-
 ## The curation of the data and the choices made
+
+
 ## The steps taken to annotate or enrich the data
-See the [Readme.md of the dataset](https://github.com/hubshilpa/Introduction-to-Digital-Humanities-/tree/main/dataset#c-details-on-the-collection-procedure)
+See the [Details on the collection procedure of the readme of the dataset](https://github.com/hubshilpa/Introduction-to-Digital-Humanities-/tree/main/dataset#c-details-on-the-collection-procedure)
 
 ## Tools 
 The tools used to  enrich the orginal dataset of Danescu-Niculescu-Mizil & Lee (2011) are: 
