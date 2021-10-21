@@ -7,7 +7,7 @@
 ## The data model used for the research questions
 
 <p align="center">
-  <img width="200" src="data_model_image.png" alt="Figure 1:  A model of the data that will be used in this research.">
+  <img width="500" src="data_model_image.png" alt="Figure 1:  A model of the data that will be used in this research.">
 </p>
 
 
